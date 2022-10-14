@@ -62,6 +62,7 @@
 .fa-bars .sidebar{
     width: 30%;
     height: 94vh;
+    overflow: scroll;
     background-color: white;
     box-shadow: 0px 0px 2px black;
     position: absolute;
